@@ -4,27 +4,23 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-stack developer
 --------------------
 
-* 🌍  I'm based in Ufa
-* ✉️  You can contact me at [suer2505@gmail.com](mailto:suer2505@gmail.com)
-* 🧠  I'm learning Solidity
-* 🤝  I'm open to collaborating on Interesting projects
+* 🌍  I'm based in Ufa
+* ✉️  You can contact me at [suer2505@gmail.com](mailto:suer2505@gmail.com)
+* 🧠  I'm learning Solidity
+* 🤝  I'm open to collaborating on Interesting projects
 
 <a href="https://www.github.com/suer-tech" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/suer-tech?logo=github&style=for-the-badge&color=a855f7&labelColor=0f172a" /></a>
-
 ### Skills
-
 
 <p align="left">
 ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
 </p>
 
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/suer-tech" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
 ### Badges
 
 <b>My GitHub Stats</b>
