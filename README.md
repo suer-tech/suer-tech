@@ -5,7 +5,7 @@ Full-stack developer
 -------------
 
 * 🌍  I'm based in Ufa
-* ✉️  You can contact me at [suer2505@gmail.com](mailto:suer2505@gmail.com)
+* ✉️  You can contact me at [telegram](mailto:href="https://t.me/Suer_stuff")
 * 🧠  I'm learning Solidity
 * 🤝  I'm open to collaborating on Interesting projects
 
