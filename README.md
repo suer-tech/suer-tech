@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ilshat
 ==============================================================================================================================
 
-Web developer
+Full-stack developer
 -------------
 
 * 🌍  I'm based in Ufa
 * ✉️  You can contact me at [suer2505@gmail.com](mailto:suer2505@gmail.com)
-* 🧠  I'm learning React, Django
+* 🧠  I'm learning Solidity
 * 🤝  I'm open to collaborating on Interesting projects
 
 <a href="https://www.github.com/suer-tech" target="_blank" rel="noreferrer"><img
