@@ -9,8 +9,6 @@ Full-stack developer
 * 🧠  I'm learning Solidity
 * 🤝  I'm open to collaborating on Interesting projects
 
-<a href="https://www.github.com/suer-tech" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/suer-tech?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
 
 ### Skills
 
