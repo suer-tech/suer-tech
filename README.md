@@ -6,7 +6,6 @@ AI Developer | Full-stack Engineer
 
 * 🌍  I'm based in Ufa
 * ✉️  You can contact me at [telegram](https://t.me/Suer_stuff)
-* 🧠  I'm learning Solidity
 * 🤝  I'm open to collaborating on Interesting projects
 
 ### 🧑‍💻 About Me
